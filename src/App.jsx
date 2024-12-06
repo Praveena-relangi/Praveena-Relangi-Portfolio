@@ -11,7 +11,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router basename="/Praveena-Relangi-Portfolio">
+    <Router basename="/praveena-relangi-portfolio">
       <div className="app-container">
         <Routes>
           <Route
